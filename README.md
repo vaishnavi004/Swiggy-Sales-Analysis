@@ -54,7 +54,7 @@ swiggy-sales-analysis/
 │
 ├── Swiggy_Sales_Analysis.ipynb    # Main Jupyter Notebook with EDA
 ├── swiggy_data.xlsx               # Source dataset 
-└── README.md                      # Project documentation
+└── Swiggy_Project_Doc.docx        # Project documentation
 ```
 ---
 
