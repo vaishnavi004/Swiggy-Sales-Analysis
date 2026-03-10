@@ -52,8 +52,8 @@ The goal of this project is to analyse Swiggy's sales data and derive actionable
 ```
 swiggy-sales-analysis/
 │
-├── Swiggy_Sales_Analysis.ipynb   # Main Jupyter Notebook with EDA
-├── swiggy_data.xlsx               # Source dataset (not included — add your own)
+├── Swiggy_Sales_Analysis.ipynb    # Main Jupyter Notebook with EDA
+├── swiggy_data.xlsx               # Source dataset 
 └── README.md                      # Project documentation
 ```
 ---
