@@ -56,32 +56,6 @@ swiggy-sales-analysis/
 ├── swiggy_data.xlsx               # Source dataset (not included — add your own)
 └── README.md                      # Project documentation
 ```
-
-> ⚠️ The raw dataset (`swiggy_data.xlsx`) is not included in this repository. You can substitute your own Swiggy-format dataset with columns like `Order Date`, `Price (INR)`, `Rating`, `Rating Count`, `State`, `Dish Name`.
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/swiggy-sales-analysis.git
-   cd swiggy-sales-analysis
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install pandas numpy matplotlib seaborn plotly openpyxl
-   ```
-
-3. **Add the dataset**  
-   Place `swiggy_data.xlsx` in the root directory (or update the file path in the notebook).
-
-4. **Launch the notebook**
-   ```bash
-   jupyter notebook Swiggy_Sales_Analysis.ipynb
-   ```
-
 ---
 
 ## 💡 Key Insights (Sample)
